@@ -5,4 +5,3 @@ My name is Yuriy Goshovskiy. I'm a cybersecurity student looking for an opportun
 Listed below are my independent projects. These projects serve to test and showcase my knowledge surrounding topics such as networking, security, etc.
  
 - [Packet Tracer: Creating A Virtual Network](https://github.com/goshovskiy/pkt-small-network)
-- 
